@@ -1,0 +1,61 @@
+div.um {
+
+    display: inline-block ; 
+     
+    border: 3px solid rgb(8, 8, 8); color:red;
+
+    width: 200px;
+
+    height: 200px;
+    background-color: red;
+
+
+}
+
+div.dois {
+
+    display: inline-block;
+
+    border: 2px solid rgb(250, 247, 247);
+
+    width: 200px;
+
+    height: 200px;
+    background-color: red;
+}
+
+div.tres {
+
+    display: inline-block;
+
+    border: 2px solid rgb(250, 247, 247);
+
+    width: 200px;
+
+    height: 200px;
+    background-color:blue;
+}
+
+div.quatro {
+
+    display: inline-block;
+
+    border: 2px solid rgb(250, 247, 247);
+
+    width: 200px;
+
+    height: 200px;
+    background-color:green;
+}
+
+div.cinco {
+
+    display: inline-block;
+
+    border: 2px solid rgb(250, 247, 247);
+
+    width: 200px;
+
+    height: 200px;
+    background-color:yellow;
+}
